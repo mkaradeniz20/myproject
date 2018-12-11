@@ -1,5 +1,5 @@
-//16253502
-//Mehmet KARADENİZ
+
+
 import java.util.Scanner;
 
 
